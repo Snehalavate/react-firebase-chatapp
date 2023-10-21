@@ -1,3 +1,9 @@
+![Screenshot (146)](https://github.com/Snehalavate/react-firebase-chatapp/assets/95031919/4ab8542e-a6e1-482f-a171-d40d61f47968)
+
+![Screenshot (147)](https://github.com/Snehalavate/react-firebase-chatapp/assets/95031919/c2460900-71a2-4e2b-b725-a085ee24071f)
+
+![Screenshot (148)](https://github.com/Snehalavate/react-firebase-chatapp/assets/95031919/f6f11037-f300-4935-8e05-fea3b9c94834)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
